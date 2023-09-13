@@ -18,6 +18,8 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #ffffff;
+  position: relative;
+  background-position: center;
 }
 
 .nav {
@@ -118,18 +120,16 @@
 }
 
 .content {
-  background-image: url(/images/background_recipes.svg);
 }
 
 .recipes {
   padding: 100px 80px 215px;
   min-height: 720px;
   max-height: 800px;
-  height: 100vh;
-
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #0a2750;
+  background-image: url(/images/background_recipes.svg);
 }
 
 .recipes__title {
