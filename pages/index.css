@@ -98,18 +98,15 @@
 
 .header__paragraph {
   position: relative;
+  left: 80px;
+  bottom: 40px;
   font-weight: 500;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-size: 16px;
   line-height: 20px;
   margin: 0;
-  color: #838383;
-}
-
-.header__paragraph {
-  left: 80px;
-  bottom: 40px;
+  color: #6f6f6f;
 }
 
 .header__paragraph-address {
@@ -117,6 +114,11 @@
   bottom: 40px;
   display: flex;
   align-items: flex-end;
+  color: #6f6f6f;
+}
+
+.content {
+  background-image: url(/images/background_recipes.svg);
 }
 
 .recipes {
@@ -124,7 +126,7 @@
   min-height: 720px;
   max-height: 800px;
   height: 100vh;
-  background-image: url(/images/background_recipes.svg);
+
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #0a2750;
