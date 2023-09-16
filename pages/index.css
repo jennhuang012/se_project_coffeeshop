@@ -209,6 +209,7 @@
 .form {
   max-width: 385px;
 }
+
 .form__fieldset {
   padding: 0;
   margin: 0;
@@ -266,7 +267,8 @@
 }
 
 .form__button:hover {
-  transition: 100% 70%;
+  opacity: 0.7;
+  transition: ease;
 }
 
 .form__label_type_checkbox {
