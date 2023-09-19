@@ -1,7 +1,6 @@
 .footer {
   padding: 60px 100px 60px 80px;
   box-sizing: border-box;
-  background: linear-gradient (180 deg, #0a2850 0%, #071931 100$);
 }
 
 .footer__content {
@@ -20,7 +19,7 @@
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-  margin: 0 auto 20px;
+  margin: 0 0 20px;
 }
 
 .footer__list {
