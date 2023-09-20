@@ -1,6 +1,8 @@
 .footer {
+  background: linear-gradient (180deg, #0a2850 0%, #071931 100%);
   padding: 60px 100px 60px 80px;
   box-sizing: border-box;
+  color: #ffffff;
 }
 
 .footer__content {
@@ -14,12 +16,13 @@
 }
 
 .footer__social-heading {
+  color: #ffffff;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-  margin: 0 0 20px;
+  margin: 0;
 }
 
 .footer__list {
@@ -43,6 +46,8 @@
 
 .footer__social-link {
   display: flex;
+  color: #ffffff;
+  gap: 10px;
 }
 
 .footer__social-link:hover {
@@ -61,5 +66,6 @@
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
-  margin: 108px 0 0;
+  padding: 108px 0 0;
+  color: #ffffff;
 }
