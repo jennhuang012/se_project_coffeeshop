@@ -19,12 +19,12 @@
   justify-content: space-between;
   background-color: #0a2850;
   z-index: 0;
+  margin: 0;
 }
 
 .about__title {
   margin: 100px 0 0 80px;
   max-width: 251px;
-
   color: #ffffff;
   font-family: Inter, Arial, sans-serif;
   font-style: normal;
@@ -59,10 +59,11 @@
   flex-direction: column;
   gap: 20px;
   padding: 0;
-  margin: 119px 80px 173px 20px;
+  margin: 119px 80px 0 20px;
   color: #ffffff;
 }
 
 .about__paragraph {
   display: flex;
+  margin: 0;
 }
