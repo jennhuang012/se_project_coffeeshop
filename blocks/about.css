@@ -13,7 +13,6 @@
 
 .about {
   display: flex;
-  padding: 100px 80px 173px;
   overflow: hidden;
   position: relative;
   justify-content: space-between;
@@ -66,4 +65,5 @@
 .about__paragraph {
   display: flex;
   margin: 0;
+  max-width: 660px;
 }
