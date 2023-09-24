@@ -16,6 +16,7 @@
   line-height: 52px;
   color: #ffffff;
   margin: 0;
+  padding-bottom: 24px;
 }
 
 .recipes__subtitle {
@@ -55,4 +56,5 @@
   line-height: 30px;
   color: #ffffff;
   margin: 0;
+  padding-top: 24px;
 }

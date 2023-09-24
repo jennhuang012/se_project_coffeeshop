@@ -31,3 +31,7 @@
   color: #000;
   text-decoration: none;
 }
+
+.nav__link:hover {
+  color: violet;
+}

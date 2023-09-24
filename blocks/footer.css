@@ -54,7 +54,7 @@
   display: flex;
   color: #ffffff;
   gap: 10px;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .footer__social-link:hover {
